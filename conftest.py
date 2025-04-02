@@ -1,11 +1,11 @@
-from idlelib.tree import wheel_event
-
 from selenium import webdriver
 import pytest
 
 @pytest.fixture()
 def driver():
-    driver = webdriver.Firefox()
+    options = webdriver.FirefoxOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Firefox(options=options)
     driver.maximize_window()
     yield driver
     driver.quit()
