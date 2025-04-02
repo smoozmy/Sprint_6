@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52e7d84c-9bf7-48c7-816e-c6af74311db6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/test_faq_section.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_redirect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sprint_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sprint_6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page_locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order_page_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order_page_locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_faq.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/268d60bf-148e-42b3-bf10-7d9bda79249f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/54560d33-354d-43d3-86d1-e164bdbdea10-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/a2e910d2-3dfb-4a70-b336-2047905b7f12-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/e882aec5-4e43-4ae9-a477-802306117691-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
